@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176161466893",
+    "firebase_url": "https://ordertracking-269907.firebaseio.com",
+    "project_id": "ordertracking-269907",
+    "storage_bucket": "ordertracking-269907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176161466893:android:d0f66c4d50997f875dc344",
+        "android_client_info": {
+          "package_name": "com.venkatesh.driverapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176161466893-3m32de2j4gs4l1uf84nds2vbh3spvees.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiwo6zET2QKBJpzpL2gxrbTgYkD0cemiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176161466893-3m32de2j4gs4l1uf84nds2vbh3spvees.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
